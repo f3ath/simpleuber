@@ -1,0 +1,26 @@
+{
+  "name": "f3ath/simpleuber",
+  "description": "Simple UBER API client",
+  "keywords": ["uber", "uber.com", "api", "client"],
+  "homepage": "https://github.com/f3ath/simpleuber",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexey Karapetov",
+      "email": "karapetov@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.4",
+    "phpcurl/curlhttp": "^1.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^4.8 || ^5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "F3\\SimpleUber\\": "src/"
+    }
+  }
+}
