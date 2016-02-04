@@ -2,7 +2,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/f3ath/simpleuber.svg)](https://packagist.org/packages/f3ath/simpleuber)
 [![Latest Stable Version](https://img.shields.io/packagist/v/f3ath/simpleuber.svg)](https://packagist.org/packages/f3ath/simpleuber)
 [![Travis Build](https://travis-ci.org/f3ath/simpleuber.svg?branch=master)](https://travis-ci.org/f3ath/simpleuber)
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/3637a8cf-8735-465a-b528-a4ad1edff017/mini.png)](https://insight.sensiolabs.com/projects/3637a8cf-8735-465a-b528-a4ad1edff017)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/42c88a31-5ab6-43e7-aff4-95b44e1ada01/mini.png)](https://insight.sensiolabs.com/projects/42c88a31-5ab6-43e7-aff4-95b44e1ada01)
 
 Simple UBER API client for PHP
 
